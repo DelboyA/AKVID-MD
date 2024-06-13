@@ -22,7 +22,7 @@
  **`DEPLOYMENT METHODS`**
 ---
 
-<a href="https://s222-97346bfd73f7.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://pure-oasis-83408-2d4660ca395e.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 
 <a href="https://web-qr-qbn8.onrender.com"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
@@ -38,7 +38,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center"><a href="https://s222-97346bfd73f7.herokuapp.com/">
+<p align="center"><a href="https://pure-oasis-83408-2d4660ca395e.herokuapp.com/">
  <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20AKVID%20APP-marron?style=for-the-badge&logo=blackpanther" width="220" height="38.45"/></a></p>
 
 
