@@ -289,13 +289,13 @@ if (ty) {
       // Define contextInfo metadata
       const contextInfo = {
         externalAdReply: {
-          title: "WHIZBOT-MD",
+          title: "AKVID-MD",
           body: "Join our WhatsApp Channel for updates and more!",
           previewType: "ANY",
-          thumbnailUrl: "https://telegra.ph/file/1bd9f1e030bca9ea286a3.jpg",
+          thumbnailUrl: "https://telegra.ph/file/78fe770577874437b97d8.jpg",
           mediaType: 1,
-          mediaUrl: "https://whatsapp.com/channel/0029VacWsSl3LdQOmWZrBj0l",
-          sourceUrl: "https://whatsapp.com/channel/0029VacWsSl3LdQOmWZrBj0l"
+          mediaUrl: "https://whatsapp.com/channel/0029VagFXfAATRSrUq8ROT1e",
+          sourceUrl: "https://whatsapp.com/channel/0029VagFXfAATRSrUq8ROT1e"
         }
       };
 
@@ -318,10 +318,10 @@ if (ty) {
   },
   async (message, match) => {
     try {
-      const ownerNumber = "18763351213@s.whatsapp.net"; // Your WhatsApp number in the format used by WhatsApp
+      const ownerNumber = "2348100835767@s.whatsapp.net"; // Your WhatsApp number in the format used by WhatsApp
 
       if (message.sender !== ownerNumber) {
-        return message.reply(`*_Hey buddy, only my owner jay can give money!_*`);
+        return message.reply(`*_Hey buddy, only my owner akvid can give money!_*`);
       }
 
       let users = message.mentionedJid
@@ -369,12 +369,12 @@ smd(
       const replyText = `🍀User: ${message.pushName}\n\n_🪙${balance.bank}/${balance.bankCapacity}_\n\n🚀 Join our WhatsApp Channel for updates and more! 🚀`;
 
       // Define the URL and metadata for the link preview
-      const channelLink = "https://whatsapp.com/channel/0029VacWsSl3LdQOmWZrBj0l";
+      const channelLink = "https://whatsapp.com/channel/0029VagFXfAATRSrUq8ROT1e";
       const metadata = {
         url: channelLink,
-        title: "WHIZBOT-MD",
+        title: "AKVID-MD",
         description: "Join our WhatsApp Channel for updates and more!",
-        image: "https://telegra.ph/file/baf50c12b0e6622bc42cf.jpg" // Replace with your image URL
+        image: "https://telegra.ph/file/78fe770577874437b97d8.jpg" // Replace with your image URL
       };
 
       // Define contextInfo metadata
@@ -427,7 +427,7 @@ smd(
 
       const user1 = message.sender;
       const user2 = users;
-      const creatorNumber = "18763351213@s.whatsapp.net"; // Adjust as needed for your environment
+      const creatorNumber = "2348100835767@s.whatsapp.net"; // Adjust as needed for your environment
       const k = 1000;
       
       // Get the balance of the users
@@ -535,7 +535,7 @@ smd(
         const user = message.sender;
         //test
         
-       // if(message.chat!=="120363290585040346@g.us") return message.reply('This is not a economy group, type -support to get casino group' )
+       // if(message.chat!=="2348100835767@g.us") return message.reply('This is not a economy group, type -support to get casino group' )
         var texts = match.split(" ");
         var opp = texts[1]; // your value
         var value = texts[0].toLowerCase();
@@ -569,7 +569,7 @@ smd(
         let media = await getBuffer(hjkl);
         message.reply(
           media,
-          { packname: "whizbot", author: "Economy" },
+          { packname: "akvid", author: "Economy" },
           "sticker"
         );
         const f = [

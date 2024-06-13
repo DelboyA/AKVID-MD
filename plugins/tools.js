@@ -76,10 +76,13 @@ async (m) => {
     text += `*🌐 𝗔𝗞𝗩𝗜𝗗-𝗠𝗗  _𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ♦️*\n\n`;
     text += `🔮 \`\`\`The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier\`\`\`\n\n`;
     text += `💡 \`\`\`Various things can be downloaded from this bot. Also, managing groups, making logos & edit-images in different ways, searching for different things and getting information and more futures included.\`\`\`\n\n`;
+    text += `⚠️ \`\`\`Also, if your Whatsapp account gets damaged or banned by using this, we are not responsible and you should take responsibility for it.\`\`\`\n\n`;
     text += `🪀 \`\`\`You can create the bot and see the deploy methods from the website below.\`\`\` 👇\n\n`;
+    text += `🌏 *Website:* \`\`\`https://whatsapp.com/channel/0029VagFXfAATRSrUq8ROT1e\`\`\`\n\n`;
     text += `👨‍💻 *Owners:* \`\`\`AKVID\`\`\`\n\n`;
     text += `🎡 *Github:*  \`\`\`https://github.com/Kingdavid3333/AKVID-MD\`\`\`\n\n`;
-    text += `❄️ *Our community:* \`\`\`https://whatsapp.com/channel/0029VagFXfAATRSrUq8ROT1e\`\`\`\n\n`;
+    text += `🪩 *Our community:* \`\`\`https://whatsapp.com/channel/0029VagFXfAATRSrUq8ROT1e\`\`\`\n\n`;
+    text += `🪄 *Our channel:* \`\`\`https://whatsapp.com/channel/0029VagFXfAATRSrUq8ROT1e\`\`\`\n\n`;
 
     const imageUrl = "https://telegra.ph/file/78fe770577874437b97d8.jpg";
     
